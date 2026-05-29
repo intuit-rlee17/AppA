@@ -1,0 +1,24 @@
+{
+  "originHash" : "9919d420f43b91640cf63ad2a09e273ad400bde9caee961b7840723ba2c8c305",
+  "pins" : [
+    {
+      "identity" : "frameworka",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/intuit-rlee17/FrameworkA.git",
+      "state" : {
+        "revision" : "db18af71f91751dbd80585d38cb3b63595d56918",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "frameworkbspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/intuit-rlee17/FrameworkBSPM",
+      "state" : {
+        "revision" : "135888bcd4de35ceca47945316425f72ec5de7f5",
+        "version" : "0.1.3"
+      }
+    }
+  ],
+  "version" : 3
+}
